@@ -3,7 +3,8 @@ I do <b>UI localisation</b> for Russian and English languages, along with <b>REA
 
 <h3>Here are the projects I have collaborated on so far:</h3>
 
-* [Need for Speed: Unbound — Russian Localisation](https://nfsmods.xyz/mod/4749)
+* [**Need for Speed: Unbound — Russian Localisation**](https://nfsmods.xyz/mod/4749)
+* [Rustdesk](https://github.com/rustdesk/rustdesk) 
 * [DualSense Tester](https://github.com/daidr/dualsense-tester)
 * [NFSLocaleToolHB](https://github.com/erdem1999erdem/NFSToolHB)
 * [OpenPods](https://github.com/adolfintel/OpenPods)
